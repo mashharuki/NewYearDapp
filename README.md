@@ -1,5 +1,6 @@
 # NewYearDapp
-2024年年賀状プロジェクトです！！
+
+2024 年年賀状プロジェクトです！！
 
 ## 動かし方
 
@@ -15,12 +16,6 @@
 
       ```bash
       pnpm backend run compile
-      ```
-
-    - テスト
-
-      ```bash
-      pnpm backend run test
       ```
 
     - スマートコントラクトのデプロイ
@@ -59,5 +54,4 @@
 
 - Fuji
 
-  - NFT: [](https://testnet.snowtrace.io/address/)
-
+  - NFT: [0xeBd4B2c48C163cC30CDCaCe3B9b2237c7248a4f2](https://testnet.snowtrace.io/address/0xeBd4B2c48C163cC30CDCaCe3B9b2237c7248a4f2#code)

@@ -1,0 +1,13 @@
+{
+  "name": "NewYearDapp",
+  "version": "1.0.0",
+  "description": "2024年年賀状プロジェクトです。",
+  "main": "index.js",
+  "scripts": {
+    "backend": "pnpm -F \"backend\"",
+    "frontend": "pnpm -F \"frontend\""
+  },
+  "keywords": [],
+  "author": "mashharuki",
+  "license": "MIT"
+}
